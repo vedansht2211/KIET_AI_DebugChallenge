@@ -29,7 +29,7 @@ HIDDEN_SIZE          = 64
 LEARNING_RATE        = 0.05
 EPOCHS               = 1500
 CONFIDENCE_THRESHOLD = 0.65
-INTENTS_FILE         = "C:\\Users\\HP\\Desktop\\4th sem\\genai\\project\\debug\\intents.json"
+INTENTS_FILE         = "intents.json"
 MODEL_DIR            = "model_artifacts"
 # ─────────────────────────────────────────────────────────────────────────────
 
